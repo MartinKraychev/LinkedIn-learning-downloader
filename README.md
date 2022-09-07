@@ -1,7 +1,7 @@
 # LinkedIn Learning Downloader Script
 ## This is a selenium script to download LinkedIn Video Courses with Python using Chrome browser
 
-To use:
+To use: You need premium account to access those videos. Free trials works.
   - Git clone 
   - Install and activate virtualenv
   - Install dependancies
