@@ -1,4 +1,4 @@
-# LinkedIn learning Downloader
+# LinkedIn Learning Downloader Script
 ## This is a selenium script to download LinkedIn Video Courses with Python using Chrome browser
 
 To use:
