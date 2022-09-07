@@ -10,4 +10,7 @@ To use: You need premium account to access those videos. Free trials works.
       - URL = The Url to the LinkedIn Course
       - EMAIL = Login details(email)
       - PASSWORD = Login details(password)
+
+The videos are downloaded inside the project with filename same as the video title.
+Sort them by Date Modified acsending to have them in the correct order.
    
